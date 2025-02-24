@@ -3,7 +3,7 @@ Amulya Dussa
 Education: 
 Northeastern University
 Freshman, Class of 2028
-Major: Data Science and Linguistics 
+Major: Data Science & Linguistics 
 Activities: AI Club, DATA club
 
 Presentation High School 
